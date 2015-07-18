@@ -1,0 +1,13 @@
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\bin\Debug\WebViewSample.dll
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\bin\Debug\WebViewSample.pdb
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\bin\Debug\WebViewSample.dll.mdb
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\bin\Debug\WebViewSample.WebViewSample.apk
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\bin\Debug\WebViewSample.WebViewSample-Signed.apk
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\WebViewSample.dll
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\WebViewSample.pdb
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\android\bin\WebViewSample.WebViewSample.apk
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\res\layout\main.xml
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\res\values\strings.xml
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\res\drawable\icon.png
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\R.cs.flag
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\uploadflags.txt
