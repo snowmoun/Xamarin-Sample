@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="WebViewSample.WebViewSample" android:versionCode="1" android:versionName="1.0">
   <uses-sdk android:minSdkVersion="11" />
   <application android:label="WebViewSample" android:icon="@drawable/icon" android:name="mono.android.app.Application" android:debuggable="true">
-    <activity android:icon="@drawable/icon" android:label="WebViewSample" android:name="md5d5b3b5409cd0c438e272bcc4061bb860.MainActivity">
+    <activity android:icon="@drawable/icon" android:label="棟哥的部落格" android:name="md5d5b3b5409cd0c438e272bcc4061bb860.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

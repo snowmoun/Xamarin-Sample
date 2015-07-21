@@ -11,3 +11,4 @@ D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\res\value
 D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\res\drawable\icon.png
 D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\R.cs.flag
 D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\uploadflags.txt
+D:\GitHub\Xamarin-Sample\Android\WebViewSample\WebViewSample\obj\Debug\WebViewSample.csprojResolveAssemblyReference.cache

@@ -26,7 +26,23 @@ namespace WebViewSample
             webView.Settings.JavaScriptEnabled = true;
 
             webView.LoadUrl(webViewURL);
+
+            webView.SetWebViewClient(new CustWebViewClient());
         }
+    }
+
+
+    /// <summary>
+    /// 巢狀Class 繼承WebViewClient
+    /// </summary>
+    public class CustWebViewClient : WebViewClient
+    {
+        public override bool ShouldOverrideUrlLoading(WebView view, string url)
+        {
+            view.LoadUrl(url);
+            return true;
+        }
+
     }
 }
 
