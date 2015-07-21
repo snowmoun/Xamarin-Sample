@@ -42,4 +42,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.suo
+bin/
+obj/
 Android/WebViewSample/WebViewSample/WebViewSample.csproj.user
